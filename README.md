@@ -20,12 +20,12 @@ e) <b>css(dir):</b> Contains CSS, SCSS files and maping. it also has minified ve
 1. Download the source code and put it in a separate directory of your choice.
 2. Open package.json and install all the required modules using npm. 
 
-		example: <i>npm install module-name</i>
+		example: npm install module-name
 
 3. Once you have installed all the moduels, open app.js and change the port according to your convenience in line 10.
 4. Start the server by running the following command in command prompt:
 
-		<i>node app.js</i>
+		node app.js
 
 5. now go to "http://localhost:your-port". Congratulations, you have got the app up and running!
 6. You can make changes according to your convenience in CSS, JS and index file and create your version of Chatroom on top of this app.
